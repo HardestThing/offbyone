@@ -33,7 +33,7 @@ This policy can be applied to any cache, to either purge, refresh or ban cached 
 
 This policy not only ensures that the cache is invalid **at all times**, but when used to purge or replace cached data, it can in many cases lead to **significant memory savings**.
 
-####Data Flow Diagram
+#### Data Flow Diagram
 
 ![Example](./docs/img/mrw.svg)
 
